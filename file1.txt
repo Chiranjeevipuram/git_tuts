@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 filexxx
 fileyyy
+=======
+file111
+file222
+>>>>>>> master
